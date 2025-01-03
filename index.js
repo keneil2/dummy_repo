@@ -4,4 +4,5 @@ message = "Hello World";
 function Print_Hello_World(message){
 //implement here
 console.log(message);
+console.log("Hi");
 }
