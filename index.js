@@ -3,5 +3,5 @@
 message = "Hello World";
 function Print_Hello_World(message){
 //implement here
-console.log($message.trim());
+console.log(message);
 }
