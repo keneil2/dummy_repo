@@ -1,7 +1,19 @@
 //to Garfeild trim console.log($message.trim()); on line 6
 //Eunice print message using console.log(); on line 6
-message = "Hello World";
+const message = "Hello World";
 function Print_Hello_World(message){
 //implement here
 console.log(message);
+}
+
+
+
+
+
+
+ let name =""
+function printName(name){
+//to Garfeild trim console.log(message.trim()); on line 12
+//Eunice print message using console.log(name); on line 12
+// put your implementaion here
 }
