@@ -3,7 +3,7 @@
 const message = "Hello World";
 function Print_Hello_World(message){
 //implement here
-console.log(message);
+console.log($message());
 }
 
 
@@ -16,5 +16,5 @@ function printName(name){
 //to Garfeild trim console.log(name.trim()); on line 19
 //Eunice print message using console.log(name); on line 19
 // put your implementaion here
-
 }
+
