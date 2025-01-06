@@ -13,8 +13,8 @@ console.log(message);
 
  let name =""
 function printName(name){
-//to Garfeild trim console.log(message.trim()); on line 12
-//Eunice print message using console.log(name); on line 12
+//to Garfeild trim console.log(message.trim()); on line 19
+//Eunice print message using console.log(name); on line 19
 // put your implementaion here
-console.log("Hi");
+
 }
