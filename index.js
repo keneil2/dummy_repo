@@ -16,5 +16,6 @@ function printName(name){
 //to Garfeild trim console.log(name.trim()); on line 19
 //Eunice print message using console.log(name); on line 19
 // put your implementaion here
+console.log(name);
 }
 
